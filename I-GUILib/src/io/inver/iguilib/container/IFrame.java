@@ -10,7 +10,7 @@ public class IFrame extends JFrame
 
 	public IFrame() throws HeadlessException 
 	{
-		// TODO Auto-generated constructor stubvvbv
+		// TODO Auto-generated constructor stubvvbvsadsadds
 	}
 
 	public IFrame(GraphicsConfiguration arg0) 
